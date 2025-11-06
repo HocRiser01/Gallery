@@ -413,3 +413,47 @@ date: 2025-10-03 18:44:11
 ![3-2-10](/Users/hocriser/Documents/Hexo/source/gallery/4-1/3-2-10.jpg)
 ![4-2-126](/Users/hocriser/Documents/Hexo/source/gallery/4-2/4-2-126.jpg)
 {% endgp %}
+
+{% gp 9-1 %}
+![IMG_0651](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0651.jpg)
+![IMG_1280](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_1280.jpg)
+![IMG_0300](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0300.jpg)
+![IMG_0297](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0297.jpg)
+![IMG_1296](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_1296.jpg)
+![IMG_1290](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_1290.jpg)
+![IMG_0902](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0902.jpg)
+![IMG_0473](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0473.jpg)
+![IMG_0909](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0909.jpg)
+{% endgp %}
+
+{% gp 6-3 %}
+![IMG_0899](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0899.jpg)
+![IMG_0321](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0321.jpg)
+![IMG_0283](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0283.jpg)
+![IMG_0290](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0290.jpg)
+![IMG_0339](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0339.jpg)
+![IMG_0292](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0292.jpg)
+{% endgp %}
+
+{% gp 8-1 %}
+![IMG_0345](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0345.jpg)
+![IMG_0333](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0333.jpg)
+![IMG_0914](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0914.jpg)
+![IMG_0691](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0691.jpg)
+![IMG_0465](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0465.jpg)
+![IMG_0690](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0690.jpg)
+![IMG_0280](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0280.jpg)
+![IMG_1294](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_1294.jpg)
+{% endgp %}
+
+{% gp 4-2 %}
+![IMG_0461](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0461.jpg)
+![IMG_1278](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_1278.jpg)
+![IMG_0896](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0896.jpg)
+![IMG_0685](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0685.jpg)
+{% endgp %}
+
+{% gp 2-1 %}
+![IMG_0330](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0330.jpg)
+![IMG_0295](/Users/hocriser/Documents/Hexo/gallery/5-2/temp/IMG_0295.jpg)
+{% endgp %}

@@ -1,7 +1,12 @@
 import os
 import random
+import sys
 
-folders = ["4-1", "4-2"]
+folders = sys.argv[1:]
+if not folders:
+    print("Usage: python script.py <folder1> <folder2> ...")
+    sys.exit(1)
+
 output_file = "group_photos.md"
 
 images = []
